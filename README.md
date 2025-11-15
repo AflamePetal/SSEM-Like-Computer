@@ -1,5 +1,7 @@
 # Simple-Computer
 
+<img width="1128" height="869" alt="Screenshot 2025-11-15 094947" src="https://github.com/user-attachments/assets/6d6ea7ed-26e8-4266-9797-f9e82e05983e" />
+
 ## Instruction Set
 
 The system follows the instruction set below:
