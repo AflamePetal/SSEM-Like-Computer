@@ -1,6 +1,6 @@
 # Simple-Computer
 
-<img width="1128" height="869" alt="Screenshot 2025-11-15 094947" src="https://github.com/user-attachments/assets/6d6ea7ed-26e8-4266-9797-f9e82e05983e" />
+<img width="1096" height="869" alt="Screenshot 2025-11-15 095308" src="https://github.com/user-attachments/assets/f9130ef3-7ada-4559-982a-7e6b14194cdf" />
 
 ## Instruction Set
 
